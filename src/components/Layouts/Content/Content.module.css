@@ -1,0 +1,18 @@
+.content {
+    width: 50%;
+    height: auto;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+}
+h1 {
+  font-size: 24px;
+  padding: 10px;
+  color: black;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

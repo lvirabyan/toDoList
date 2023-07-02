@@ -1,0 +1,16 @@
+.btn {
+    background-color: rgb(252, 48, 48);
+    margin: 5px;
+    padding: 15px;
+    border-radius: 5px;
+    border-color: rgb(196, 196, 196);
+    color: black;
+
+}
+.btnAdd {
+    background-color: solid grey;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 5px;
+    border-color: rgb(196, 196, 196);
+}
